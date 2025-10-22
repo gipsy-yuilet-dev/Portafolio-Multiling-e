@@ -1,48 +1,93 @@
 # 👩‍💻 Julieta Fernanda Eyzaguirre Arenas
 
-**Desenvolvedora Backend | Java | Spring Boot | Kafka | Cibersegurança | Multilíngue**
-
+**Engenheira em Informática com especialização em Cibersegurança**  
 📍 Rancagua, Chile  
-🎓 Engenheira em Informática, com especialização em Cibersegurança  
-🌐 Espanhol | Inglês | Francês | Português | Romeno  
-💡 Apaixonada por arquitetura de microsserviços, automação e práticas seguras de desenvolvimento
+📧 eyzaguirre.julieta@gmail.com  
+📞 +56 9 7285 8899  
+🔗 [LinkedIn](https://linkedin.com/in/seuperfil) | [GitHub](https://github.com/gipsy-yuilet-dev)
 
 ---
 
-## 🚀 Bem-vindo ao Meu Portfólio
+## 🎯 Perfil Profissional
 
-Esta seção contém meu perfil profissional, currículo e projetos destacados — todos traduzidos para o português. Meu objetivo é tornar meu trabalho acessível a recrutadores e colaboradores internacionais de língua portuguesa.
+Sou engenheira em informática com especialização em cibersegurança, apaixonada pelo desenvolvimento backend, automação de processos e integração de tecnologias modernas com sistemas legados. Destaco-me pela minha abordagem autodidata, capacidade de explicar conceitos técnicos de forma acessível e pela criação de projetos funcionais e bem documentados publicados no GitHub.
 
----
-
-## 📄 Documentos disponíveis
-
-- [Currículo (Português)](./CV.md)  
-- [Projetos Destacados](./projetos.md)
+Com mais de cinco anos de experiência prática em programação, busco minha primeira oportunidade profissional para aplicar meus conhecimentos, continuar aprendendo e contribuir com soluções eficientes, seguras e escaláveis em equipes de desenvolvimento.
 
 ---
 
-## 🧩 Foco Técnico
+## 💻 Competências Técnicas
 
-- **Microsserviços**: Java, Spring Boot, Kafka, APIs REST, Actuator  
-- **Cibersegurança**: práticas de codificação segura, análise de vulnerabilidades  
-- **Automação**: scripts e ferramentas para otimizar fluxos de trabalho  
-- **Cloud & DevOps**: Oracle OCI, Azure, AWS (nível introdutório)  
-- **Sistemas Legados**: integração com COBOL, BASIC, Pascal e outros  
-- **Comunicação Multilíngue**: redação técnica e documentação em 5 idiomas
+**Linguagens de Programação**  
+- Java (4 anos), Python (4 anos), JavaScript (5 anos), C++ (2 anos), PHP (3 anos), HTML/CSS
+
+**Frameworks e Tecnologias**  
+- Spring Boot, Node.js, React (básico), .NET Core (básico)
+
+**Bancos de Dados**  
+- MySQL, PostgreSQL, SQLite, MongoDB (básico)
+
+**Ferramentas e Ambientes**  
+- Git, GitHub, Bitbucket, VS Code, IntelliJ IDEA, Eclipse  
+- Postman, Swagger, Trello, Power BI, Tableau
+
+**Cibersegurança**  
+- Fundamentos de análise de vulnerabilidades  
+- Boas práticas de desenvolvimento seguro  
+- Integração de segurança em microsserviços
+
+**Cloud & DevOps**  
+- Oracle OCI, Azure, AWS (nível introdutório)
+
+---
+
+## 📂 Projetos Destacados
+
+**🔐 Jogo Secreto – Oracle ONE**  
+Jogo interativo em JavaScript desenvolvido como parte do bootcamp Oracle ONE. Inclui lógica, design responsivo e controle de eventos.  
+🔗 [Ver projeto](https://github.com/gipsy-yuilet-dev/Juego-Secreto-alura-task01)
+
+**🧩 Master Frameworks JS**  
+Repositório de exercícios e práticas do curso de Victor Robles sobre frameworks JavaScript.  
+🔗 [Ver projeto](https://github.com/gipsy-yuilet-dev/Master-Frameworks-JS)
+
+**📊 Web Develop Project Third**  
+Compilação de projetos acadêmicos voltados para o aprendizado e demonstração de habilidades técnicas.  
+🔗 [Ver repositório](https://github.com/gipsy-yuilet-dev/webdevelopProjectThird)
+
+**🧠 Microsserviços em Java com Kafka**  
+Arquitetura distribuída com dois microsserviços independentes (produtor e consumidor) conectados via Apache Kafka. Monitoramento com Spring Actuator.  
+🔗 [Ver repositório](https://github.com/gipsy-yuilet-dev/microserviciosEnJava)
+
+---
+
+## 🎓 Formação Acadêmica
+
+**Engenharia em Informática, com especialização em Cibersegurança**  
+Instituto Profissional Providencia – Santiago, Chile  
+2020 – 2025 | Graduada com Distinção Máxima
+
+---
+
+## 🌐 Idiomas
+
+- Espanhol: Nativo  
+- Inglês: Intermediário (leitura técnica fluente)  
+- Francês, Português, Romeno: Básico
+
+---
+
+## 📜 Certificações
+
+- Programa Oracle ONE – Desenvolvimento Java Backend com Spring Boot  
+- [Outras certificações relevantes em andamento]
 
 ---
 
 ## 🎯 Objetivo Profissional
 
-Desenvolver minha carreira como desenvolvedora backend, contribuindo com soluções de software inovadoras, escaláveis e seguras. Pretendo colaborar com equipes internacionais e agregar valor por meio das minhas habilidades técnicas, adaptabilidade e compromisso com a melhoria contínua.
+Consolidar minha carreira como desenvolvedora backend, especializando-me em arquitetura de microsserviços, automação e desenvolvimento seguro. Meu objetivo é contribuir com projetos locais e internacionais, destacando-me pelas minhas habilidades técnicas, iniciativa autodidata e compromisso com a melhoria contínua.
 
 ---
-
-## 📫 Contato
-
-- 💼 [LinkedIn](https://linkedin.com/in/seuperfil)  
-- 📧 Eyzaguirre.julieta@gmail.com  
-- 🌐 [Perfil no GitHub](https://github.com/gipsy-yuilet-dev)
 
 ---
